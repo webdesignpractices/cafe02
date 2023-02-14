@@ -79,7 +79,7 @@ header{
     height: 500px;
 }
 #mainvisual .mainimg{/**/
-    background-image: url(../img/25321629_m.jpg);
+    background-image: url(../25321629_m.jpg);
     background-size: cover;
     background-position: center center;
     height: 100%;
@@ -131,16 +131,16 @@ header{
     height: 40px;
 }
 #menu .content .img1{
-    background-image: url(../img/IMG_2166.JPG);
+    background-image: url(../IMG_2166.JPG);
     filter: saturate(140%);
     display: block;
 }
 #menu .content .img2{
-    background-image: url(../img/25243131_s.jpg);
+    background-image: url(../25243131_s.jpg);
     display: block;
 }
 #menu .content .img3{
-    background-image: url(../img/25352963_s.jpg);
+    background-image: url(../25352963_s.jpg);
     display: block;
 }
 .content p{
